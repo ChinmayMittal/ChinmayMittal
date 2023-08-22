@@ -18,10 +18,6 @@
 <a href="https://logowik.com/openai-chat-gpt-5-logo-vector-56774.html"><img src="https://static.vecteezy.com/system/resources/previews/021/059/827/original/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" width="40" height="40"></a>
 </p>
 
-<p align="center" ></p>
-
-<p align = "center">&nbsp;</p>
-
 <p float="float" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=chinmaymittal&show_icons=true&locale=en" alt="chinmaymittal" width="320"  height="320"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaymittal&show_icons=true&locale=en&layout=compact" alt="chinmaymittal" width="240"  height="320"/>
