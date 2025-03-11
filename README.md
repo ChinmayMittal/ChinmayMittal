@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chinmay Mittal</h1>
-<h3 align="center">Senior Computer Science Undergraduate at IIT Delhi</h3>
+<h3 align="center">a software engineer at Optiver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaymittal&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaymittal" /> </p>
 
-- 🌱 I’m currently learning about **Machine Learning, Deep Learning and Natural Language Processing**
-
+- 🌱 I’m currently a software engineer at Optiver, Amsterdam where I work on automated trading systems.
 - 📫 Reach me at **chinmay.mittal.iitd@gmail.com**
 
 <h3 align="left">Connect with me</h3>
